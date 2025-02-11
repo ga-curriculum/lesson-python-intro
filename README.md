@@ -11,11 +11,11 @@
 ---
 
 ## Learning Objectives
-*After this lesson, you will be able to:*
-
-- Define integers, strings, tuples, lists, and dictionaries
+*After this lesson, you should be able to:*
+- Define integers, floats, strings, Boolean variables, tuples, lists, sets, and dictionaries in Python
+- Describe data types, and why we might use a given data type
 - Demonstrate arithmetic operations and string operations
-- Learn to use basic Jupyter Notebook features
+- Use basic Jupyter Notebook features
 ---
 
 ## Student Requirements
@@ -32,7 +32,7 @@
 
 > **Estimated Total Time: 90 mins**
 
-I. **Intro to Python** 
+I. **Intro to Python**
 - Common Python Datatypes
 - Working with Integers, Floats
 - Common Mathematical Operations
